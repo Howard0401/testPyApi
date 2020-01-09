@@ -104,4 +104,4 @@ def notFound(error):
     return'404'
     
 if __name__ == '__main__':
-    app.run(host="buildschoolprice.azurewebsites.net")
+    app.run()
