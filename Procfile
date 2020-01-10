@@ -1,2 +1,1 @@
-"web: python app.py:app" 
-"web: gunicorn app:app"
+"web: gunicorn app.py" 
