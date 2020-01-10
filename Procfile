@@ -1,2 +1,2 @@
-"web: python app:app.py" 
-"web: gunicorn gettingstarted.wsgi"
+"web: python app.py:app" 
+"web: gunicorn app:app"
