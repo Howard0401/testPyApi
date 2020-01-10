@@ -2,9 +2,6 @@ adal==1.2.2
 aiohttp==3.6.2
 alabaster==0.7.12
 amqp==2.5.2
-anaconda-client==1.7.2
-anaconda-navigator==1.9.7
-anaconda-project==0.8.3
 aniso8601==8.0.0
 appdirs==1.4.3
 asn1crypto==1.0.1
@@ -14,10 +11,6 @@ async-timeout==3.0.1
 asyncio==3.4.3
 atomicwrites==1.3.0
 attrs==19.2.0
-azure-common==1.1.24
-azure-devops==5.1.0b4
-azure-mgmt-resource==7.0.0
-azure-mgmt-sql==0.16.0
 Babel==2.7.0
 backcall==0.1.0
 backports.functools-lru-cache==1.5
